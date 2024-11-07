@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">I'm a Fullstack developer.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldealejandro" alt="ldealejandro" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://basic-portfolio-psi.vercel.app/](https://basic-portfolio-psi.vercel.app/)
 
 - 📫 How to reach me **letzalet@gmail.com**
