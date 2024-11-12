@@ -63,3 +63,5 @@
     </tr>
   </table>
 </div> 
+
+![snake gif](https://github.com/LdeAlejandro/LdeAlejandro/blob/output/github-snake-dark.svg)
