@@ -77,7 +77,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LdeAlejandro&theme=tokyonight" alt="GitHub Streak" />
   </a>
-</div>div>
+</div>
 </div>
 
 ![snake gif](https://github.com/LdeAlejandro/LdeAlejandro/blob/output/github-snake-dark.svg)
