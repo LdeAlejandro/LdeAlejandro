@@ -13,7 +13,23 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LdeAlejandro&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeALejandro&show_icons=true&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" alt="LdeAlejandro" style="height: 200px;" />
+    </picture>
+  </div>
+
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" alt="LdeAlejandro" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
 
 <h2 align="center">Languages and Tools:</h2>
 
