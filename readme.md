@@ -20,7 +20,7 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <img src="/imgs/html5.png" alt="HTML" width="65" height="65"/><br /><br />HTML
+        <img src="/imgs/html5.png" alt="HTML" width="65" height="65"/><br />HTML
       </td>
       <td align="center" width="96">
         <img src="/imgs/css.svg" alt="CSS" width="65" height="65"/><br /><br />CSS
