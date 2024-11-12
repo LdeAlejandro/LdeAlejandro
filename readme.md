@@ -62,7 +62,7 @@
     </td>
   </tr>
 </table>
-
+<h2 align="center">Stats:</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
