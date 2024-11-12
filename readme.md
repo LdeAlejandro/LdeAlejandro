@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">I'm a Fullstack developer.</h3>
+![Header](./your-header-image-name.png)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -13,6 +12,8 @@
     />
   </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LdeAlejandro&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -46,7 +47,7 @@
         <img src="/imgs/mongo.png" alt="MongoDB" width="65" height="65"/><br />MongoDB
       </td>
       <td align="center" width="96">
-        <img src="/imgs/git.png" alt="Git" width="65" height="65"/><br />>Git
+        <img src="/imgs/git.png" alt="Git" width="65" height="65"/><br />Git
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/><br />GitHub
