@@ -16,15 +16,15 @@
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" alt="LdeAlejandro" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="LdeAlejandro" style="height: 200px;" />
     </picture>
   </div>
 
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" alt="LdeAlejandro" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" alt="LdeAlejandro" style="height: 200px;" />
     </picture>
   </div>
 </div>
