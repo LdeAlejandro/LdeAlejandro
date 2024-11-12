@@ -13,22 +13,6 @@
   </a>
 </p>
 
-<div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="LdeAlejandro" style="height: 200px;" />
-    </picture>
-  </div>
-
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" alt="LdeAlejandro" style="height: 200px;" />
-    </picture>
-  </div>
-</div>
-
 <h2 align="center">Languages and Tools:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -78,5 +62,42 @@
     </tr>
   </table>
 </div> 
+
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" alt="LdeAlejandro" style="height: 200px;" />
+    </picture>
+  
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" alt="LdeAlejandro" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=LdeAlejandro&theme=tokyonight" alt="GitHub Streak" />
+    </a>
+  </div>
+</div>
+
+<h2 align="center">Studying:</h2>
+
+<div style="text-align: center;">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="/imgs/java.png" alt="Java" width="65" height="65" /><br />Java
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 ![snake gif](https://github.com/LdeAlejandro/LdeAlejandro/blob/output/github-snake-dark.svg)
