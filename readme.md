@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./imgs/github-header-image.png)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
