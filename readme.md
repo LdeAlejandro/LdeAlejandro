@@ -12,9 +12,9 @@
     />
   </a>
 </p>
-<center>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LdeAlejandro&theme=tokyonight-duo)](https://git.io/streak-stats)
-</center>c
+
 <h2 align="center">Languages and Tools:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
