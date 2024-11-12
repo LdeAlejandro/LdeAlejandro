@@ -62,13 +62,14 @@
     </td>
   </tr>
 </table>
-<h2 align="center">Stats:</h2>
-<div align="center">
+<h2 align="center">Most used languagues:</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en&layout=compact" alt="LdeAlejandro Top Languages" style="height: 200px;" />
   </picture>
   
+<h2 align="center">Stats:</h2>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight&locale=en" />
     <img src="https://github-readme-stats.vercel.app/api?username=LdeAlejandro&show_icons=true&theme=tokyonight-duo&locale=en" alt="LdeAlejandro Stats" style="height: 200px;" />
