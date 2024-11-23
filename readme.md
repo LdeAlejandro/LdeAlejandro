@@ -1,5 +1,13 @@
 ![Header](./imgs/github-header-image.png)
 
+
+
+### Portfolio
+##
+
+- https://basic-portfolio-psi.vercel.app/
+##
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-amoroso/" target="_blank">
@@ -7,11 +15,8 @@
   </a>
 </p>
 
-##
-### Portfolio
 
-- https://basic-portfolio-psi.vercel.app/
-##
+
 
 <h2 align="center">Languages and Tools:</h2>
 <table align="center">
