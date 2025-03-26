@@ -65,13 +65,13 @@
   </tr>
 </table>
 
-<h2 align="center">Studying:</h2>
+<!--<h2 align="center">Studying:</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="/imgs/java.png" alt="Java" width="65" height="65" /><br />Java
     </td>
-  </tr>
+  </tr>-->
 </table>
 <h2 align="center">Most used languagues:</h2>
 <div align="center">
